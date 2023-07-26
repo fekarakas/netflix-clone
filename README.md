@@ -1,2 +1,2 @@
 # netflix-clone
-<h2> Bu projemde netflix-xlone yaptım. </h2>
+<h2> Bu projemde netflix-clone yaptım. </h2>
